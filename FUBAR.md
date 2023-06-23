@@ -28,6 +28,8 @@ Because they make up everything!
 
 What did the horse say after it tripped? Help! I’ve fallen and I can’t giddyup!
 
+Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them.
+
 I do not have a joke.
 
 What does a baby computer call its father? Data
@@ -39,3 +41,4 @@ Why can’t you hear a pterodactyl going to the bathroom? Because the “P” is
 Why did the bicycle fall over?
 
 Because it was two-tired!
+
