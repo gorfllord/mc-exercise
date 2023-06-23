@@ -11,3 +11,5 @@ egg-shell-sior!
 
 This is Ted and Carol making a change from Carol's laptop.  
 Siri told me a bad joke.
+
+Did you hear about the restaurant on the moon? Great food, no atmosphere.
