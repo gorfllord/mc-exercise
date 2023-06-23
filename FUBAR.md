@@ -8,3 +8,6 @@ Becasue they might crack up.
 This is Bob & Carol making a change from Bob's laptop, without a pull request.
 Sometimes you need to live dangerously.
 egg-shell-sior!
+
+This is Ted and Carol making a change from Carol's laptop.  
+Siri told me a bad joke.
