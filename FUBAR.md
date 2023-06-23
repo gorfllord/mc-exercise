@@ -43,3 +43,5 @@ What do you call a well-balanced horse? Stable.
 Why did the bicycle fall over?
 
 Because it was two-tired!
+
+How does a polar bear build its house? Igloos it together.
