@@ -8,3 +8,5 @@ Becasue they might crack up.
 This is Bob & Carol making a change from Bob's laptop, without a pull request.
 Sometimes you need to live dangerously.
 egg-shell-sior!
+
+Did you hear about the restaurant on the moon? Great food, no atmosphere.
