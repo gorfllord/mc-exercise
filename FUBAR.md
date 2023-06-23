@@ -13,3 +13,5 @@ This is Ted and Carol making a change from Carol's laptop.
 Siri told me a bad joke.
 
 Did you hear about the restaurant on the moon? Great food, no atmosphere.
+
+And so then I told the guy, "That's not a particle accelerator, that's my wife!"
