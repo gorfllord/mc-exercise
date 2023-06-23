@@ -44,4 +44,7 @@ Why did the bicycle fall over?
 
 Because it was two-tired!
 
+Why don't cannibals eat clowns? Because they taste funny.
+
 How does a polar bear build its house? Igloos it together.
+
