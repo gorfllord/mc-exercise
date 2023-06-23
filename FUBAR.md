@@ -36,3 +36,6 @@ What do sprinters eat before a race? Nothing. They fast.
 
 Why can’t you hear a pterodactyl going to the bathroom? Because the “P” is silent.
 
+Why did the bicycle fall over?
+
+Because it was two-tired!
