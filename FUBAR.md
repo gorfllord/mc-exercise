@@ -33,3 +33,6 @@ I do not have a joke.
 What does a baby computer call its father? Data
 
 What do sprinters eat before a race? Nothing. They fast.
+
+Why can’t you hear a pterodactyl going to the bathroom? Because the “P” is silent.
+
