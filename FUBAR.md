@@ -43,3 +43,5 @@ What do you call a well-balanced horse? Stable.
 Why did the bicycle fall over?
 
 Because it was two-tired!
+
+Why don't cannibals eat clowns? Because they taste funny.
