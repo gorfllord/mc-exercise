@@ -31,3 +31,5 @@ What did the horse say after it tripped? Help! I’ve fallen and I can’t giddy
 I do not have a joke.
 
 What does a baby computer call its father? Data
+
+What do sprinters eat before a race? Nothing. They fast.
