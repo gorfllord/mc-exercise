@@ -13,4 +13,10 @@ This is Ted and Carol making a change from Carol's laptop.
 Siri told me a bad joke.
 
 Did you hear about the restaurant on the moon? Great food, no atmosphere.
+
 What do you call fake spaghetti? An impasta!
+
+And so then I told the guy, "That's not a particle accelerator, that's my wife!"
+
+Why was Cinderella so bad at soccer? She kept running away from the ball.
+
